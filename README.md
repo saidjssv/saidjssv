@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there I'm Said!! 👋
 
-<!--
-**saidjssv/saidjssv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About me
 
-Here are some ideas to get you started:
+> I'm passionate about **programming** and **cybersecurity** since I was **13 years old**
+> I literally love building minimalist websites and experimenting with **css**
+> **I'm currently searching new knowledge and trying to be better than yesterday!!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently working on
+
+- **Vyntrix**
+
+## 🔩 My tech stack
+
+> **Still growing...**
+
+## 🏁 Goals
+
+- 🎗️ **Move to another country**
+- 🙏 **Give talks or conferences to inspire others**
+- 🔥 **Build useful and efficient projects to the people**
+
+## Fun Facts
+
+> I started programming making a discord bot called **Nebulosity (discontinued)**
+> **Vyntrix** is a better version of **Nebulosity**.
+> I LOVE listening music, especially if its beabadoobee.
+
+## DISCLAIMER:
+> **The girl in my pfp is my favorite singer**

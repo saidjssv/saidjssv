@@ -25,6 +25,3 @@
 > I started programming making a discord bot called **Nebulosity (discontinued)**
 > **Vyntrix** is a better version of **Nebulosity**.
 > I LOVE listening music, especially if its beabadoobee.
-
-## DISCLAIMER:
-> **The girl in my pfp is my favorite singer**
